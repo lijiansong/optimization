@@ -1,0 +1,12 @@
+PP2
+SPC
+SRC
+HPC
+PSC
+
+[HPC] "Software Optimization for High Performance Computing: Creating Faster Applications" by K.R. Wadleigh and I.L. Crawford, Hewlett-Packard professional books, Prentice Hall.
+[OPT] "The Software Optimization Cookbook" (2nd ed.) by R. Gerber, A. Bik, K. Smith, and X. Tian, Intel Press.
+[PP2] "Parallel Programming: Techniques and Applications using Networked Workstations and Parallel Computers" (2nd ed.) by B. Wilkinson and M. Allen, Prentice Hall.
+[PSC] "Parallel Scientific Computing in C++ and MPI" by G. Karniadakis and R. Kirby II, Cambridge University Press.
+[SPC] "Scientific Parallel Computing" by L.R. Scott, T. Clark, and B. Bagheri, Princeton University Press.
+[SRC] "Sourcebook of Parallel Programming" by J. Dongara, I. Foster, G. Fox, W. Gropp, K. Kennedy, L. Torczon, and A. White (eds), Morgan Kaufmann. 
